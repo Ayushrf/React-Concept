@@ -38,12 +38,6 @@
 - we can add the props which we can directly access it using react jsx. eg. in a Main we will do this < Main title="eg10"/ >
 Bsically we are prodiving data from one place to another.
 
-
-![alt text](image-2.png)
-
-![alt text](image-1.png)
-
-
 # Using the width height and inline css in react elements.
 
 - using the mostly every attribute are same written as the in normal css eg. width="255" height="150" or width={333} height={150}
