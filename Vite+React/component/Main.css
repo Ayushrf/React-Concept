@@ -1,0 +1,21 @@
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+    gap: 2%;
+}
+
+.d {
+    padding: 2%;
+    width: 40%;
+    text-wrap: wrap;
+    text-align: center;
+    border: 2px solid black;
+    background: linear-gradient(90deg, rgba(215, 207, 195, 1.000) 0.000%, rgba(204, 190, 178, 1.000) 16.667%, rgba(193, 174, 163, 1.000) 33.333%, rgba(182, 159, 148, 1.000) 50.000%, rgba(172, 144, 136, 1.000) 66.667%, rgba(163, 132, 125, 1.000) 83.333%, rgba(153, 121, 117, 1.000) 100.000%)
+}
+.d p
+{
+    padding: 4%;
+    font-size: 1.2rem;
+}
