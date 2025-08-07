@@ -1,0 +1,18 @@
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(229, 123, 156);
+}
+
+.list {
+    width: 30%;
+    display: flex;
+    padding-top: 8px;
+    justify-content: space-around;
+}
+
+#navImg {
+    width: 10vw;
+    height: 60px;
+}
